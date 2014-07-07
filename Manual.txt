@@ -1,0 +1,4 @@
+We just need to run the file main.m, it will automatically calculate the result.
+The folder contain saved data, so if we want to manual select the point, then look at inside the file, 
+uncomment some part to enable manual selection function.
+Explanation is included in the file and in the report.
